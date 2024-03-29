@@ -1,0 +1,5 @@
+pyyaml
+pytest
+pytest-selenium
+pytest-xdist
+pytest-failed-screenshot
